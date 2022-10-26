@@ -4,7 +4,7 @@
 
 ## 规范检查插件
 
-- [prettier](https://prettier.io/)： 使用 prettier 统一代码格式。
+- [prettier](https://prettier.io/)：使用 prettier 统一代码格式。
 - [eslint](https://eslint.org/docs/latest/)：使用 esLint 约束 Vue、TypeScript 、JavaScript 代码规范。
 - [stylelint](https://stylelint.bootcss.com/)：使用 stylelint 约束 Less、CSS 代码规范。
 - [commitizen](http://commitizen.github.io/cz-cli/) 和 [commitlint](https://commitlint.js.org/#/)：使用 commitizen 统一代码提交消息的格式，commitlint 约束提交消息的格式。
