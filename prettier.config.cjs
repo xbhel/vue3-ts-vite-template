@@ -17,7 +17,7 @@ module.exports = {
   bracketSpacing: true,
   // 换行符，‘auto’ 表示保持现状，window 为 crlf，linux/mac 为 lf
   // 'auto' 当团队成员使用不同设备开发时，会因此出现换行符跨平台开发问题
-  endOfLine: 'auto',
+  endOfLine: 'lf',
   // 是否将多行元素(HTML、JSX、Vue、Angular)的‘>’单独放在下一行，而不是放在行尾
   bracketSameLine: false,
   // 总是为单个的箭头函数参数添加括号，'(x) => x'
