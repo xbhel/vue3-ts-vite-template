@@ -13,7 +13,7 @@
     "preview:dist": "vite preview",
     "test": "vitest run",
     "test:unit": "vitest run tests/unit",
-    "lint:lint-staged": "lint-staged",
+    "lint:staged": "lint-staged",
     "coverage": "vitest run --coverage",
     "postinstall": "esno build/script/welcome.ts",
     "prepare": "husky install"
