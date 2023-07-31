@@ -15,12 +15,12 @@
 9. :lock:集成 lodash、axios、dayjs、vue-use、nprogress 等工具库。
 10. 集成 vitest 用于测试。
 11. 集成 esno 执行 ts、js 脚本。
-12. :lock:vite 多环境配置。
-13. :lock:集成 lint-stage 对 git 暂存区(即新增/修改)代码进行 lint。
+12. vite 多环境配置。
+13. 集成 lint-stage 对 git 暂存区(即新增/修改)代码进行 lint。
 14. :lock:集成 cross-env 进行交叉环境变量编译。
 15. :lock:集成 commitizen 规范团队中代码提交消息的风格。
 16. :lock:集成 stylelint 对 css 及拓展进行静态代码分析。
-17. :lock:集成 husky 对 git hooks 进行增强，以检验提交信息、运行测试、代码分析等。
+17. 集成 husky 对 git hooks 进行增强，以检验提交信息、运行测试、代码分析等。
 18. :lock:集成 vue-router 进行路由管理。
 19. :lock:集成 pinia 进行状态管理。
 20. :lock:集成 vue-i18n 以支持国际化。
